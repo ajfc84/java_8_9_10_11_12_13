@@ -1,3 +1,5 @@
+package com.modernjava.lambda;
+
 public class RunnableExample {
     public static void main(String[] args) {
         Runnable runnable = new Runnable() {

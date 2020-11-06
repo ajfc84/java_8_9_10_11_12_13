@@ -1,3 +1,5 @@
+package com.modernjava.lambda;
+
 public class HelloWorldTraditional implements HelloWorldInterface {
 
     public String sayHelloWorld() {
